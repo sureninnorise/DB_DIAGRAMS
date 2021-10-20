@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T18:20:39.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZttopRGd0BHrV3HsWogj" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T18:46:52.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="k1bbBJV2Yycz6nZoI6mJ" version="15.5.4" type="github">
   <diagram id="EgIBlc7OFmrq_tmr9XCg" name="Page-1">
     <mxGraphModel dx="788" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="FWTpr8FO5LGC-Z_DSoKu-4" value="questions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="FWTpr8FO5LGC-Z_DSoKu-2">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FWTpr8FO5LGC-Z_DSoKu-5" value="ID&lt;br&gt;question_string&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="FWTpr8FO5LGC-Z_DSoKu-1">
+        <mxCell id="FWTpr8FO5LGC-Z_DSoKu-5" value="ID&lt;br&gt;question_string&lt;br&gt;created_at" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="FWTpr8FO5LGC-Z_DSoKu-1">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWTpr8FO5LGC-Z_DSoKu-6" value="" style="group" vertex="1" connectable="0" parent="1">
